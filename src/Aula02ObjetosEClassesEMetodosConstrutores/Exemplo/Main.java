@@ -1,4 +1,4 @@
-package Aula02ObjetosEClassesEMetodosConstrutores;
+package Aula02ObjetosEClassesEMetodosConstrutores.Exemplo;
 
 public class Main {
     public static void main(String[] args) {

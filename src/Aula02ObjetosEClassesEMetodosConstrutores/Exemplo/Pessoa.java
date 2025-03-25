@@ -1,4 +1,4 @@
-package Aula02ObjetosEClassesEMetodosConstrutores;
+package Aula02ObjetosEClassesEMetodosConstrutores.Exemplo;
 
 public class Pessoa {
     // Atributos definidos de uma classe
