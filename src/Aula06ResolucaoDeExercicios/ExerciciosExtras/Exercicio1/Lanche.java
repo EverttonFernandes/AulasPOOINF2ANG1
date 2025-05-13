@@ -5,11 +5,12 @@ import java.util.List;
 
 public class Lanche {
     private String nomeLanche;
-    private List<String> ingredientes = new ArrayList<>();
+    private List<String> ingredientes;
     private Double preco;
 
-    public Lanche(String nomeLanche, Double preco) {
+    public Lanche(String nomeLanche, List<String> ingredientes, Double preco) {
         this.nomeLanche = nomeLanche;
+        this.ingredientes = new ArrayList<>(); // lista mutável
         this.preco = preco;
     }
 
