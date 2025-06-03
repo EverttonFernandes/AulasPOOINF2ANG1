@@ -1,4 +1,4 @@
-package AulaPraticaSobreVisibilidadeGettersESetters;
+package Aula03PraticaSobreVisibilidadeGettersESetters;
 
 public class Pessoa {
     private String cpf;

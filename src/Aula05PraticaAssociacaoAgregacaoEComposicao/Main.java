@@ -1,4 +1,4 @@
-package AulaPratica05AssociacaoAgregacaoEComposicao;
+package Aula05PraticaAssociacaoAgregacaoEComposicao;
 
 import java.util.ArrayList;
 import java.util.List;
