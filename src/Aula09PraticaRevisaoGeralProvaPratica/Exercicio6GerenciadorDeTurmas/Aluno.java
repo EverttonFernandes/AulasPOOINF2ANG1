@@ -1,4 +1,4 @@
-package Aula09PraticaRevisaoGeralProvaPratica.ExercicioGerenciadorDeTurmas;
+package Aula09PraticaRevisaoGeralProvaPratica.Exercicio6GerenciadorDeTurmas;
 
 public class Aluno {
     private String nome;

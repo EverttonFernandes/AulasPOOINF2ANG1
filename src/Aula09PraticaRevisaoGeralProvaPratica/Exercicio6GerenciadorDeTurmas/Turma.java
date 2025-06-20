@@ -1,4 +1,4 @@
-package Aula09PraticaRevisaoGeralProvaPratica.ExercicioGerenciadorDeTurmas;
+package Aula09PraticaRevisaoGeralProvaPratica.Exercicio6GerenciadorDeTurmas;
 
 import java.util.ArrayList;
 import java.util.List;

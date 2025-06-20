@@ -1,4 +1,4 @@
-package Aula09PraticaRevisaoGeralProvaPratica.ExercicioGerenciadorDeTurmas;
+package Aula09PraticaRevisaoGeralProvaPratica.Exercicio6GerenciadorDeTurmas;
 
 public class Main {
     public static void main(String[] args) {
