@@ -27,7 +27,7 @@ public class Personagem {
         return nome;
     }
 
-    public void setClasse(String sayajin) {
+    public void setClasse(String classe) {
         this.classe = classe;
     }
 
