@@ -1,0 +1,14 @@
+
+ï	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ﬁÇç∏J$7543233b-ee28-423f-9277-fa09adc01287
+y
+java:S1854	"=Remove this useless assignment to local variable "salaAula3".(ﬂˆ”ÜJ$7a27f8a5-a773-4769-80a9-efd61f31a9ac
+y
+java:S1854"=Remove this useless assignment to local variable "salaAula2".(ìå¡óJ$b2fb3f88-4c0f-43e1-b451-5c3a01086a29
+}
+java:S1854"<Remove this useless assignment to local variable "salaAula".(à⁄Ü˛˘ˇˇˇˇJ$b4ecf722-09ae-40d0-95cb-3e7e71a33c48
+n
+java:S1481"-Remove this unused "salaAula" local variable.(à⁄Ü˛˘ˇˇˇˇJ$d8217e3d-f350-4767-a9d3-f81ac0b7df73
+j
+java:S1481".Remove this unused "salaAula2" local variable.(ìå¡óJ$d9ccd2ad-34a4-4c7b-902f-32d7949e9b8f
+j
+java:S1481	".Remove this unused "salaAula3" local variable.(ﬂˆ”ÜJ$e0cebd02-e3c0-4b9c-a6c2-9b36fa6b17b9

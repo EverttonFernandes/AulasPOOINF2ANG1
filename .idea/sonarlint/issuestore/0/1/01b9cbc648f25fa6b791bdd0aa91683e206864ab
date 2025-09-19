@@ -1,0 +1,24 @@
+
+l
+java:S1192)"JDefine a constant instead of duplicating this literal " | Tipo: " 3 times.(µŸ‡óıÿÿÿÿ8³Ëş2
+i
+java:S1192"MDefine a constant instead of duplicating this literal "Habilidade '" 4 times.(¼»İ.8ƒ³Ëş2
+m
+java:S1192)"KDefine a constant instead of duplicating this literal " | Poder: " 3 times.(µŸ‡óıÿÿÿÿ8ƒ³Ëş2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÅ¡—ùÿÿÿÿ8ˆ³Ëş2
+F	java:S106"+Replace this use of System.out by a logger.(¼»İ.8³Ëş2
+G	java:S106"+Replace this use of System.out by a logger.(ÃÑ¥”8 ³Ëş2
+G	java:S106"+Replace this use of System.out by a logger.(Îî£’8¤³Ëş2
+G	java:S106 "+Replace this use of System.out by a logger.(û„ÿú8¥³Ëş2
+L	java:S106%"+Replace this use of System.out by a logger.(ï¼ë°ÿÿÿÿÿ8¨³Ëş2
+L	java:S106)"+Replace this use of System.out by a logger.(µŸ‡óıÿÿÿÿ8ª³Ëş2
+L	java:S106-"+Replace this use of System.out by a logger.(¬·Šıÿÿÿÿ8­³Ëş2
+G	java:S1061"+Replace this use of System.out by a logger.(úà¶8¯³Ëş2
+L	java:S1065"+Replace this use of System.out by a logger.(µŸ‡óıÿÿÿÿ8²³Ëş2
+G	java:S1069"+Replace this use of System.out by a logger.(å•Õë8µ³Ëş2
+L	java:S106="+Replace this use of System.out by a logger.(»Ùùÿÿÿÿ8·³Ëş2
+L	java:S106A"+Replace this use of System.out by a logger.(µŸ‡óıÿÿÿÿ8º³Ëş2
+L	java:S106E"+Replace this use of System.out by a logger.(ÂÒó–üÿÿÿÿ8¼³Ëş2
+L	java:S106I"+Replace this use of System.out by a logger.(Çµ³€úÿÿÿÿ8¾³Ëş2
+G
+java:S1068"*Remove this unused "classe" private field.(ƒ’Æ—8À³Ëş2

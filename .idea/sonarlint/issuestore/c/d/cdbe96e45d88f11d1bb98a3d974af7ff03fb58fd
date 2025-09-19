@@ -1,0 +1,24 @@
+
+
+java:S1192;"JDefine a constant instead of duplicating this literal " | Tipo: " 3 times.(šˆ‘8²ıËş2J$75ad6ea5-33e8-49d1-a93e-e9a932cdd410
+
+java:S1192%"MDefine a constant instead of duplicating this literal "Habilidade '" 4 times.(©¶²Ş8Ÿ²ıËş2J$3d0c53b4-7264-4d2a-b5ae-b7cfbfd8fde6
+
+java:S1192;"KDefine a constant instead of duplicating this literal " | Poder: " 3 times.(šˆ‘8Ÿ²ıËş2J$74299786-cab8-49dc-9b31-3cbbd38748ee
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÅ¡—ùÿÿÿÿ8Ì¹×Ëş2J$f7d3815c-efb5-405e-9068-e2bcb7f423c6
+m	java:S106%"+Replace this use of System.out by a logger.(©¶²Ş8§ùæËş2J$ed50fdef-3e97-4dbd-8a9d-cac65e0cc147
+m	java:S106*"+Replace this use of System.out by a logger.(ÖÃÀ8¨ùæËş2J$8874344e-177b-41ac-8688-434cc07a9ca7
+m	java:S1060"+Replace this use of System.out by a logger.(Îî£’8à²ıËş2J$2b26e601-efea-4a88-a198-37d09f06c4fb
+m	java:S1062"+Replace this use of System.out by a logger.(û„ÿú8à²ıËş2J$3ace71d6-587e-4836-9e61-525622cd5986
+r	java:S1067"+Replace this use of System.out by a logger.(ï¼ë°ÿÿÿÿÿ8á²ıËş2J$3d8a48a7-dbd7-4efc-8cd7-e9de4e50c562
+m	java:S106;"+Replace this use of System.out by a logger.(šˆ‘8â²ıËş2J$fc09332f-270c-43bf-8316-53b2c544d831
+m	java:S106@"+Replace this use of System.out by a logger.(üÁı²8ã²ıËş2J$3a5ce804-9722-4474-a874-a17be9c15ea4
+m	java:S106E"+Replace this use of System.out by a logger.(úà¶8ã²ıËş2J$9a71479d-727f-4f70-acd3-f8fea317b1d5
+m	java:S106I"+Replace this use of System.out by a logger.(šˆ‘8ä²ıËş2J$f317d7e3-6092-4ff0-9f21-dff9b6a139b4
+m	java:S106N"+Replace this use of System.out by a logger.(¼‡¶¦8å²ıËş2J$211c6034-38c3-43f1-92ed-7064d9d3e514
+r	java:S106S"+Replace this use of System.out by a logger.(»Ùùÿÿÿÿ8æ²ıËş2J$899a1917-1bb0-4163-b661-a7dac678b77f
+m	java:S106W"+Replace this use of System.out by a logger.(šˆ‘8æ²ıËş2J$b32edcc6-3fcd-4f2f-822d-63f6d47fa517
+m	java:S106\"+Replace this use of System.out by a logger.(¨÷„¥8è²ıËş2J$b89c2c14-0784-4f3b-aca3-fc3ffd338b63
+r	java:S106a"+Replace this use of System.out by a logger.(Çµ³€úÿÿÿÿ8é²ıËş2J$86512d4b-0555-4675-8a07-2d6a6d08872c
+m
+java:S1068"*Remove this unused "classe" private field.(ƒ’Æ—8Ø¸Ìş2J$abeb74ff-5e86-40eb-ae3b-6fad9f57ed43

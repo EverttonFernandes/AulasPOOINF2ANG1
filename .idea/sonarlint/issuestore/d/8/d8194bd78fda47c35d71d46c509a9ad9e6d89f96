@@ -1,0 +1,11 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÅ¡—ùÿÿÿÿJ$caef1f51-dd70-4e49-a3a4-6c4240b55cd9
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(ùğ©éûÿÿÿÿ8ğÃ»Ëş2J$294067fa-11ec-4163-92e6-8e235ad9fa86
+r	java:S106"+Replace this use of System.out by a logger.(ô“ßëúÿÿÿÿ8÷Ã»Ëş2J$51e674dc-702d-4cc3-8339-fbbd1bb0d079
+r	java:S106"+Replace this use of System.out by a logger.(ä‡éåşÿÿÿÿ8ùÃ»Ëş2J$37eea8e4-ee04-469e-bf14-7fda64280d60
+r	java:S106"+Replace this use of System.out by a logger.(Ã­û¯úÿÿÿÿ8úÃ»Ëş2J$23cf59aa-fbbf-475b-b225-80b8e14d65a8
+`
+java:S2119"Save and re-use this "Random".(¼İÅf8†Ä»Ëş2J$d570e210-75bd-47ff-8829-23eb01d78704
+m	java:S106"+Replace this use of System.out by a logger.(×ò‘ğ8ŒÄ»Ëş2J$89b88116-cea2-4e65-80d1-01d17dea3e22
+r	java:S106"+Replace this use of System.out by a logger.(ğ”©‚ûÿÿÿÿ8Ä»Ëş2J$73efb940-d2f4-420e-94e6-4058a738f2e4
